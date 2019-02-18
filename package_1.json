@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "clarifai": "^2.8.1",
+    "cors": "^2.8.4",
+    "knex": "^0.15.2",
+    "nodemon": "^1.18.4",
+    "pg": "^7.5.0",
+    "polytool": "0.0.6",
+    "save": "^2.3.2"
+  }
+}
